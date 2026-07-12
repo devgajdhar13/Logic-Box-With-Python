@@ -38,7 +38,8 @@ Pattern      │
 
 ## 🖥️ Output
 
-(Logic-Box-Output.png)
+<img width="1092" height="947" alt="Logic-Box-Output" src="https://github.com/user-attachments/assets/fcc0eb06-1888-4581-b3db-51fba0980e82" />
+
 
 ## 📁 Project Structure
 
