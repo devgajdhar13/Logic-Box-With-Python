@@ -44,11 +44,10 @@ Pattern      │
 ## 📁 Project Structure
 
 Logic_Box
-├── logic_box.py
+(\n├── logic_box.py)
 ├── Logic-Box-Output.png
 └── README.md
 
-## ▶️ How to Run
 ## ▶️ How to Run
 
 1. Ensure that **Python 3.x** is installed on your system.
