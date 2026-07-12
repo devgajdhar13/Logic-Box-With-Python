@@ -12,7 +12,6 @@ A simple Python console application that provides two features:
 
 ## 📊 Flow Chart
 
-```text
             Start
               │
               ▼
@@ -34,7 +33,6 @@ Pattern      │
              │
              ▼
           Main Menu
-```
 
 ## 🖥️ Output
 
@@ -44,7 +42,7 @@ Pattern      │
 ## 📁 Project Structure
 
 Logic_Box
-(\n├── logic_box.py)
+├── logic_box.py
 ├── Logic-Box-Output.png
 └── README.md
 
