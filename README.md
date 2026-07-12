@@ -58,7 +58,7 @@ Logic_Box/
    - **Using IDLE:** Open `logic_box.py` and press **F5** to execute the program.
    - **Using the Command Line:**
      ```bash
-     python logic_box.py
+     python_logic_box.py
      ```
 5. Once the program starts, choose one of the available menu options:
    - **1** – Generate a star (`*`) pattern.
