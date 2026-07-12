@@ -49,10 +49,21 @@ Logic_Box/
 └── README.md
 
 ## ▶️ How to Run
+## ▶️ How to Run
 
-```bash
-python logic_box.py
-```
+1. Ensure that **Python 3.x** is installed on your system.
+2. Clone or download this repository to your local machine.
+3. Navigate to the project directory.
+4. Run the application using one of the following methods:
+   - **Using IDLE:** Open `logic_box.py` and press **F5** to execute the program.
+   - **Using the Command Line:**
+     ```bash
+     python logic_box.py
+     ```
+5. Once the program starts, choose one of the available menu options:
+   - **1** – Generate a star (`*`) pattern.
+   - **2** – Analyze a range of numbers by identifying even/odd numbers and calculating their total sum.
+   - **3** – Exit the application.
 
 ## 💻 Technologies Used
 - Python 3
