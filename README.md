@@ -38,7 +38,7 @@ Pattern      │
 
 ## 🖥️ Output
 
-![Logic Box Output](Logic-Box-Output.png)
+(Logic-Box-Output.png)
 
 ## 📁 Project Structure
 
