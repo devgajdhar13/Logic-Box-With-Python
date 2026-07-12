@@ -11,7 +11,7 @@ A simple Python console application that provides two features:
 - 🚪 Menu-driven interface with an Exit option.
 
 ## 📊 Flow Chart
-
+```text
             Start
               │
               ▼
@@ -33,19 +33,19 @@ Pattern      │
              │
              ▼
           Main Menu
-
+```
 ## 🖥️ Output
 
 <img width="1092" height="947" alt="Logic-Box-Output" src="https://github.com/user-attachments/assets/fcc0eb06-1888-4581-b3db-51fba0980e82" />
 
 
 ## 📁 Project Structure
-
-Logic_Box
+```text
+Logic_Box/
 ├── logic_box.py
 ├── Logic-Box-Output.png
 └── README.md
-
+```
 ## ▶️ How to Run
 
 1. Ensure that **Python 3.x** is installed on your system.
