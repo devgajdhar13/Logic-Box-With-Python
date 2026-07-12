@@ -43,7 +43,7 @@ Pattern      │
 
 ## 📁 Project Structure
 
-Logic_Box/
+Logic_Box
 ├── logic_box.py
 ├── Logic-Box-Output.png
 └── README.md
